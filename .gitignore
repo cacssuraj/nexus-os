@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dist-electron/
+target/
+release/
+work/
+*.sqlite*
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
